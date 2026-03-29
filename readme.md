@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=9B72CF&center=true&vCenter=true&width=560&height=28&lines=initializing+arcanjo_shen.exe...;████████████+loading+100%25;ready.+let%27s+build+something+real."/>
+
 
 <br><br>
 
