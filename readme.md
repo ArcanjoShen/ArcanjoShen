@@ -36,19 +36,12 @@
 
 <p><i>"não escrevo código pra impressionar. escrevo pra funcionar."</i></p>
 
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=9B72CF&text_color=5a5a7a"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=9B72CF&text_color=5a5a7a"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArcanjoShen&hide_border=true&background=0a0a0f"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AsterixNine&hide_border=true&background=0a0a0f"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsterixNine&bg_color=0a0a0f&color=9B72CF&line=3a1a6a&point=c4aaff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArcanjoShen&bg_color=0a0a0f&color=9B72CF&line=3a1a6a&point=c4aaff&area=true&hide_border=true"/>
 
 <br><br>
 
