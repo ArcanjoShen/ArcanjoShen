@@ -4,10 +4,6 @@
 
 <br>
 
-
-
-<br><br>
-
 <svg width="760" height="200" viewBox="0 0 760 200" xmlns="http://www.w3.org/2000/svg">
   <rect width="760" height="200" rx="14" fill="#0a0a0f"/>
   <text x="30" y="70" font-family="monospace" font-size="13" fill="#c4aaff">Arcanjo Shen</text>
